@@ -1,2 +1,2 @@
 # Mini_Projects_Python
-My mini projects learning python.
+Mini projects I did while learning python basics.
